@@ -1,5 +1,5 @@
 # pong-neural-network
-This Project Featured the creation of a Pong Game from Scratch using Python's Turtle
+This Project Featured the creation of a Pong Game from Scratch using Python's Turtle Module
 
 Paired with it is a trained Neural Network API that can pass out values
 
